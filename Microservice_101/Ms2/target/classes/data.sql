@@ -1,0 +1,1 @@
+insert into user values(123,'admin','admin123');
